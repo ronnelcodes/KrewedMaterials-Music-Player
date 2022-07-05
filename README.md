@@ -3,7 +3,7 @@ This is a music player I created to play a few of my favorite songs from my mass
 
 <img src="https://i3.lensdump.com/i/tvA0t0.gif" alt="tvA0t0.gif" border="0" />
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** http://km-musicplayer.tk
 
 ## How It's Made:
 
